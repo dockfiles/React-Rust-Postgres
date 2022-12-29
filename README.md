@@ -4,7 +4,7 @@
 
 You can open this sample in the Dev Environments feature of Docker Desktop version 4.12 or later.
 
-[Open in Docker Dev Environments <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/react-rust-postgres)
+[Open in Docker Dev Environments <img src="[../open_in_new.svg](https://user-images.githubusercontent.com/110657529/209979645-24b55eb6-7080-40e8-87b5-d53e7e6b31da.png)" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/react-rust-postgres)
 
 ### React application with a Rust backend and a Postgresql database
 
@@ -21,7 +21,7 @@ Project structure:
 └── README.md
 ```
 
-[_compose.yaml_](compose.yaml)
+compose.yaml
 ```
 services:
   backend:
@@ -67,7 +67,7 @@ CONTAINER ID        IMAGE                          COMMAND                  CREA
 
 After the application starts, navigate to `http://localhost:3000` in your web browser to get a colorful message.
 
-![page](./capture.png)
+![image](https://user-images.githubusercontent.com/110657529/209979627-66c48402-d031-4644-ac26-2fa718275d07.png)
 
 Stop and remove the containers
 ```
