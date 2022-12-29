@@ -4,7 +4,7 @@
 
 You can open this sample in the Dev Environments feature of Docker Desktop version 4.12 or later.
 
-[Open in Docker Dev Environments <img src="[../open_in_new.svg](https://user-images.githubusercontent.com/110657529/209979645-24b55eb6-7080-40e8-87b5-d53e7e6b31da.png)" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/react-rust-postgres)
+[Open in Docker Dev Environments <img src="https://user-images.githubusercontent.com/110657529/209979645-24b55eb6-7080-40e8-87b5-d53e7e6b31da.png" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/react-rust-postgres)
 
 ### React application with a Rust backend and a Postgresql database
 
